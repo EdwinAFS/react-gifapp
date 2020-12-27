@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test para el componente GifGrid Deberia mostrar el componente GifGrid 1`] = `
+<Fragment>
+  <h3>
+    Vikings
+  </h3>
+  <p
+    className="animate__animated animate__lightSpeedInLeft"
+  >
+    Cargando...
+  </p>
+  <div
+    className="grid"
+  />
+</Fragment>
+`;

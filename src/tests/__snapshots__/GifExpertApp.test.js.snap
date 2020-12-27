@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test para el componente GifGrid Deberia mostrar la interfaz GifExperApp 1`] = `
+<Fragment>
+  <h2>
+     GifExperApp
+  </h2>
+  <hr />
+  <CategoryAdd
+    setCategories={[Function]}
+  />
+  <ol />
+</Fragment>
+`;

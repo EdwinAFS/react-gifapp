@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test para el componente GifItem.js Deberia mostrar el componente de GifItem 1`] = `
+<div
+  className="card animate__animated animate__fadeInDown"
+>
+  <div
+    className="body"
+  >
+    <img
+      alt="Test"
+      src="https://media.giphy.com/media/3o6wrk0rO35GuXFP6o/giphy.gif"
+    />
+  </div>
+  <div
+    className="footer"
+  >
+    <p>
+      Test
+    </p>
+  </div>
+</div>
+`;
